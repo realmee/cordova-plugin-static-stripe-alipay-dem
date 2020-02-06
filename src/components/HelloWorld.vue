@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 @click="handleClick">{{ msg }}</h1>
+    <h1 @click="handleClick">Click to alipay</h1>
   </div>
 </template>
 
